@@ -94,7 +94,7 @@
      ### セットアップ
      ```bash
      git clone
-     https://github.com/[your-username]/[your-repo].git
+     https://github.com/Kymtooo/innate-android-app.git
      cd INNATE
      ./gradlew build
      ```
@@ -144,8 +144,7 @@
      - ✅ **トラッキングなし**
      - ✅ **広告なし**
 
-     詳細: [プライバシーポリシー](https://Kymtooo.gi
-     thub.io/innate-android-app/)
+     詳細: [プライバシーポリシー](https://Kymtooo.github.io/innate-android-app/)
 
 
      ## 📧 連絡先
