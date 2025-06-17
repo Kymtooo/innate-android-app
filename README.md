@@ -1,16 +1,8 @@
 # 🌱 INNATE - 習慣を穏やかに育てるAndroidアプリ
 
-     <div align="center">
-
-     ![INNATE Icon](play_store_icon_512.png)
 
      **内なる習慣を、穏やかに**
-
-     [📱 APKダウンロード](https://github.com/[your-username]
-     /[your-repo]/releases) | [🎯 デモ動画](#) | [📖
-     開発ブログ](#)
-
-     </div>
+     
 
      ## ✨ 特徴
 
@@ -23,19 +15,11 @@
      すべてのデータはローカル保存、外部送信なし
      - **🌙 穏やかなUX**: 意志力を消費しないデザイン
 
-     ## 📱 スクリーンショット
-
-     | ホーム画面 | 習慣設定 | ウィジェット |
-     |---|---|---|
-     | ![Home](screenshots/home.png) |
-     ![Settings](screenshots/settings.png) |
-     ![Widget](screenshots/widget.png) |
 
      ## 🚀 インストール方法
 
      ### APKダウンロード（推奨）
-     1. [最新リリース](https://github.com/[your-username]/[y
-     our-repo]/releases)からAPKファイルをダウンロード
+     1. [最新リリース](https://github.com/Kymtooo/innate-android-app/releases)からAPKファイルをダウンロード
      2. Androidの「設定」→「セキュリティ」→「不明なソースか
      らのインストール」を許可
      3. APKファイルをタップしてインストール
@@ -160,39 +144,14 @@
      - ✅ **トラッキングなし**
      - ✅ **広告なし**
 
-     詳細: [プライバシーポリシー](https://[your-username].gi
-     thub.io/innate-privacy-policy/)
+     詳細: [プライバシーポリシー](https://Kymtooo.gi
+     thub.io/innate-android-app/)
 
-     ## 🤝 コントリビューション
-
-     プルリクエストやイシューの報告を歓迎します！
-
-     1. このリポジトリをフォーク
-     2. 機能ブランチを作成 (`git checkout -b
-     feature/AmazingFeature`)
-     3. 変更をコミット (`git commit -m 'Add some
-     AmazingFeature'`)
-     4. ブランチにプッシュ (`git push origin
-     feature/AmazingFeature`)
-     5. プルリクエストを作成
-
-     ## 📜 ライセンス
-
-     このプロジェクトは MIT
-     ライセンスの下で公開されています。詳細は
-     [LICENSE](LICENSE) ファイルを参照してください。
 
      ## 📧 連絡先
 
      - **Email**: innate.app.dev@gmail.com
-     - **GitHub**:
-     [@[your-username]](https://github.com/[your-username])
 
-     ## 🙏 謝辞
-
-     - **Material Design** - Googleの美しいデザインシステム
-     - **Jetpack Compose** - Modern Android UI開発の革新
-     - **Android開発コミュニティ** - 豊富な知識とサポート
 
      ---
 
